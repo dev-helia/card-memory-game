@@ -1,0 +1,17 @@
+[default]
+path = assets/cards/default
+
+[dog]
+path = assets/cards/dog
+
+[programming_languages]
+path = assets/cards/programming_languages
+
+[newjeans]
+path = assets/cards/newjeans
+
+[cats]
+path = assets/cards/cats
+
+[more_animals]
+path = assets/cards/more_animals
