@@ -1,5 +1,5 @@
 
-## **Memory Game 🎮 **
+## Memory Game 🎮 
 
 This is a memory game implemented using Python's `turtle` graphics library. The player flips cards to find matching pairs, and the game supports dynamic card sets, customizable configurations, and a leaderboard to track the best scores. You can even add personalized cards for family or fandom!
 
